@@ -1,0 +1,122 @@
+{
+ "custom.cars.brake": {
+  "sounds": [
+   "custom/cars/brake"
+  ]
+ },
+ "custom.cars.brakeonoff": {
+  "sounds": [
+   "custom/cars/brakeonoff"
+  ]
+ },
+ "custom.cars.close": {
+  "sounds": [
+   "custom/cars/close"
+  ]
+ },
+ "custom.cars.extinguisher": {
+  "sounds": [
+   "custom/cars/extinguisher"
+  ]
+ },
+ "custom.cars.honk": {
+  "sounds": [
+   "custom/cars/honk"
+  ]
+ },
+ "custom.cars.onfire": {
+  "sounds": [
+   "custom/cars/onfire"
+  ]
+ },
+ "custom.cars.open": {
+  "sounds": [
+   "custom/cars/open"
+  ]
+ },
+ "custom.cars.radiocountry": {
+  "sounds": [
+   "custom/cars/radiocountry"
+  ]
+ },
+ "custom.cars.radiocyber": {
+  "sounds": [
+   "custom/cars/radiocyber"
+  ]
+ },
+ "custom.cars.radioinspiro": {
+  "sounds": [
+   "custom/cars/radioinspiro"
+  ]
+ },
+ "custom.cars.radiorock": {
+  "sounds": [
+   "custom/cars/radiorock"
+  ]
+ },
+ "custom.cars.radiotrap": {
+  "sounds": [
+   "custom/cars/radiotrap"
+  ]
+ },
+ "custom.cars.refuel": {
+  "sounds": [
+   "custom/cars/refuel"
+  ]
+ },
+ "custom.cars.repair": {
+  "sounds": [
+   "custom/cars/repair"
+  ]
+ },
+ "custom.cars.rolling": {
+  "sounds": [
+   "custom/cars/rolling"
+  ]
+ },
+ "custom.cars.unlock": {
+  "sounds": [
+   "custom/cars/unlock"
+  ]
+ },
+ "custom.cars.waiting": {
+  "sounds": [
+   "custom/cars/waiting"
+  ]
+ },
+ "custom.cars.walking1": {
+  "sounds": [
+   "custom/cars/walking1"
+  ]
+ },
+ "custom.cars.walking2": {
+  "sounds": [
+   "custom/cars/walking2"
+  ]
+ },
+ "custom.cars.waiting2": {
+  "sounds": [
+   "custom/cars/waiting2"
+  ]
+ },
+ "custom.cars.waiting3": {
+  "sounds": [
+   "custom/cars/waiting3"
+  ]
+ },
+ "custom.cars.waiting4": {
+  "sounds": [
+   "custom/cars/waiting4"
+  ]
+ },
+ "custom.cars.paintgun": {
+  "sounds": [
+   "custom/cars/paintgun"
+  ]
+ },
+ "custom.cars.wreck": {
+  "sounds": [
+   "custom/cars/wreck"
+  ]
+ }
+}

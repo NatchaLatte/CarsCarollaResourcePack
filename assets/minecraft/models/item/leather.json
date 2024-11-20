@@ -1,0 +1,20 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":2000001}, "model": "custom/elitecreatures/cars/carolla/carkeysboot"},
+		{"predicate": {"custom_model_data":2000002}, "model": "custom/elitecreatures/cars/carolla/carkeysbrake"},
+		{"predicate": {"custom_model_data":2000003}, "model": "custom/elitecreatures/cars/carolla/carkeysengine"},
+		{"predicate": {"custom_model_data":2000004}, "model": "custom/elitecreatures/cars/carolla/carkeysradio"},
+		{"predicate": {"custom_model_data":2000005}, "model": "custom/elitecreatures/cars/carolla/carkeysspeed"},
+		{"predicate": {"custom_model_data":2000006}, "model": "custom/elitecreatures/cars/carolla/carollaicon"},
+		{"predicate": {"custom_model_data":2000007}, "model": "custom/elitecreatures/cars/carolla/carkeyshonk"},
+		{"predicate": {"custom_model_data":2000026}, "model": "custom/elitecreatures/cars/carolla/carkeysslow"},
+		{"predicate": {"custom_model_data":2000027}, "model": "custom/elitecreatures/cars/carolla/smalldebris"},
+		{"predicate": {"custom_model_data":2000028}, "model": "custom/elitecreatures/cars/carolla/mediumdebris"},
+		{"predicate": {"custom_model_data":2000029}, "model": "custom/elitecreatures/cars/carolla/largedebris"}		
+	]
+}

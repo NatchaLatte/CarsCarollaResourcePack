@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "custom/elitecreatures/cars/carolla/carolla",
+		"particle": "custom/elitecreatures/cars/carolla/carolla"
+	},
+	"elements": [
+		{
+			"from": [10.7155, 3.23719, -4.02051],
+			"to": [11.33138, 8.13935, 3.38622],
+			"rotation": {"angle": -45, "axis": "y", "origin": [1.02344, 5.68827, -0.31715]},
+			"faces": {
+				"north": {"uv": [10.75, 12.5, 10.5, 12.75], "texture": "#0"},
+				"east": {"uv": [9.3125, 11.875, 8.875, 12.125], "texture": "#0"},
+				"south": {"uv": [9.375, 12.5, 9.125, 12.75], "texture": "#0"},
+				"west": {"uv": [12.3125, 11, 11.875, 11.25], "texture": "#0"},
+				"up": {"uv": [7.375, 11.75, 7.125, 12.1875], "texture": "#0"},
+				"down": {"uv": [8.125, 12.3125, 7.875, 11.875], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [0, 3, 0]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0]
+		},
+		"head": {
+			"translation": [0, -12.5, 0]
+		}
+	}
+}
