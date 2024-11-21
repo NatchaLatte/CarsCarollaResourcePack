@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/feather"
+  },
+    "overrides": [
+		{ "predicate": { "custom_model_data": 4550 }, "model": "phoenixstore:simple_crates/black_silver_crate_block" },
+    { "predicate": { "custom_model_data": 4551 }, "model": "phoenixstore:simple_crates/black_silver_crate_key" },
+    { "predicate": { "custom_model_data": 4552 }, "model": "phoenixstore:simple_crates/blue_light_blue_crate_block" },
+    { "predicate": { "custom_model_data": 4553 }, "model": "phoenixstore:simple_crates/blue_light_blue_crate_key" },
+		{ "predicate": { "custom_model_data": 4554 }, "model": "phoenixstore:simple_crates/brown_silver_crate_block" },
+    { "predicate": { "custom_model_data": 4555 }, "model": "phoenixstore:simple_crates/brown_silver_crate_key" },
+    { "predicate": { "custom_model_data": 4556 }, "model": "phoenixstore:simple_crates/pink_green_crate_block" },
+    { "predicate": { "custom_model_data": 4557 }, "model": "phoenixstore:simple_crates/pink_green_crate_key" },
+    { "predicate": { "custom_model_data": 4558 }, "model": "phoenixstore:simple_crates/purple_light_purple_crate_block" },
+    { "predicate": { "custom_model_data": 4559 }, "model": "phoenixstore:simple_crates/purple_light_purple_crate_key" },
+    { "predicate": { "custom_model_data": 4560 }, "model": "phoenixstore:simple_crates/red_golden_crate_block" },
+    { "predicate": { "custom_model_data": 4561 }, "model": "phoenixstore:simple_crates/red_golden_crate_key" }
+		
+    ]
+}
